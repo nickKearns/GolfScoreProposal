@@ -4,68 +4,51 @@
 
 Dates 3/16-3/25
 
-**My Name:** Nicholas Kearns
+Nicholas Kearns
 
 
-**Project Name:** 
-**GolfScore**
+**Project Name:** GolfScore
 
 
-**Is your project New or Old?**
-**New Project**
+**Is your project New or Old?** New Project
 
 
-**Is your project Solo or Team?** 
+**Is your project Solo or Team?** Solo Project
 
 
 ## Description
 
-**Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
+GolfScore is an iOS application that aims to make it as easy as possible to keep track
+of your golf scores. Other apps offer this but as a side feature among a wide and daunting 
+list of other features. GolfScore will appeal mostly to the casual golfer as the go to way 
+to keep track of their rounds.
 
 ## Challenges I Anticipate
 
-**List out the challenges you anticipate for completing this project**
+I think a challenge will be making the app look nice such as getting the right color scheme,
+design of text inputs and fonts and things such as those.
 
 ## Skateboard
 
-**ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
-
-**Start coding and finish “Skateboard” feature before beginning “Bike”.** 
+Have the user be able to input, hole by hole, the par of the hole and the score they got. And then at the end of 
+either 9 holes or 18 holes their score is added up and presented in a nice way
 
 ## Bike
-**ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
+
+Add persistence to the users scores, organize the scores by date.
 
 ## Car
-**ONE additional feature** 
 
+Implement a golf course api so users do not have to manually input the par for each hole. The user could just search the course and 
+then the only thing left for them to do is input each score after each hole.
 
 ## Personal Achievement Goals:
 
-**Each teammate must achieve 2 of 3 of their self-set personal achievement goals. If you're not on a team, delete the other teammate sections as needed.**
-
 ### Teammate 1
 
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 2
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 3
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
-
-### Teammate 4
-
-1. Goal 1
-1. Goal 2
-1. Goal 3
+1. Have the app be responsive on a range of iOS devices
+1. Sharpen my UIKit and layout skills
+1. Make this app something that me and my friends will use
 
 
 ## Wireframes
@@ -96,6 +79,6 @@ Dates 3/16-3/25
 ### Sign off
 
 **Student Name:**                
-> Name / Date
+> Nick Kearns / 3/16/2020
 **Make School Advisor Name**
 > TBD
